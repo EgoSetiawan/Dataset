@@ -4,4 +4,4 @@ Repositori ini berisi dataset untuk penelitian dan pengembangan model **Pengenal
 Dataset ini ditujukan untuk mendukung riset, pengembangan sistem bantu komunikasi untuk penyandang disabilitas, serta implementasi model deep learning seperti LSTM, GRU, dan model gabungan dalam konteks klasifikasi bahasa isyarat.
 
 Data landmark berada pada file parquet sedangkan label terdapat pada csv
-![StrukturData.](/images/StructureDataset.png.png "Struktur Dataset.")
+![StrukturData.](/images/StructureDataset.png "Struktur Dataset.")
